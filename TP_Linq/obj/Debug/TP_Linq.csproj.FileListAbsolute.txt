@@ -1,0 +1,6 @@
+C:\Users\QuenPlay\source\repos\TP_Linq\TP_Linq\bin\Debug\TP_Linq.exe.config
+C:\Users\QuenPlay\source\repos\TP_Linq\TP_Linq\bin\Debug\TP_Linq.exe
+C:\Users\QuenPlay\source\repos\TP_Linq\TP_Linq\bin\Debug\TP_Linq.pdb
+C:\Users\QuenPlay\source\repos\TP_Linq\TP_Linq\obj\Debug\TP_Linq.csprojAssemblyReference.cache
+C:\Users\QuenPlay\source\repos\TP_Linq\TP_Linq\obj\Debug\TP_Linq.exe
+C:\Users\QuenPlay\source\repos\TP_Linq\TP_Linq\obj\Debug\TP_Linq.pdb
